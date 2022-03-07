@@ -1,4 +1,6 @@
 *.o 
 a.out 
 *.dSYM 
+c_server
+f1.ico
 
